@@ -10,11 +10,10 @@ body {
     align-items: center;
     background-color: lightblue;
     height: 100vh;
-    background: linear-gradient(rgba(48,62,143.4), rgba(47,150,163,.4));
+    background: linear-gradient(rgba(48,62,143), rgba(47,150,163,.4));
 }
 
 div {
-    /* border: red solid 1px; */
     margin-top: 100px;
     display: flex;
     flex-direction: column;
@@ -39,7 +38,6 @@ input:focus {
 }
 
 p {
-    /* border: chartreuse solid 1px; */
     margin-top: 50px;
     color: white;
     font-family: 'montserrat', sans-serif;
@@ -64,7 +62,6 @@ p {
 }
 
 img {
-    /* border: chartreuse solid 1px; */
     color: white;
     margin-top: 50px;
 }
